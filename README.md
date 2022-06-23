@@ -30,9 +30,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postman.svg" alt="insomnia" width="40" height="40"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -125,6 +127,7 @@ Le puedes preguntar tanto en español como en ingles!
 ## Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/matias-jesus-contreras-b78111217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemorles" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/matias-jesus-contreras-b78111217/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="lemorles" height="15%" width="15%" /></a>
+  <a href="mailto:tobiasdanielalvarez@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="lemorles" height="5%" width="5%" /></a>
+  <a href="https://api.whatsapp.com/send?phone=543512323320" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/whatsapp.svg" alt="lemorles" height="5%" width="5%" /></a>
 </p>
-

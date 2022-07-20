@@ -126,9 +126,10 @@ Le puedes preguntar tanto en español como en ingles!
 <br/>
 
 ## Connect with me:
-
+/*
 <p>
   <a href="https://www.linkedin.com/in/matias-jesus-contreras-b78111217/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="lemorles" height="15%" width="15%" /></a>
   <a href="mailto:tobiasdanielalvarez@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="lemorles" height="5%" width="5%" /></a>
   <a href="https://api.whatsapp.com/send?phone=543512323320" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/whatsapp.svg" alt="lemorles" height="5%" width="5%" /></a>
 </p>
+*/

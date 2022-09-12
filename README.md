@@ -16,6 +16,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/>
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -38,6 +39,9 @@
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind" width="40" height="40"/>
 </a>
 </p>
 
@@ -112,7 +116,6 @@ Le puedes preguntar tanto en español como en ingles!
 
 ## 📊 My Github Stats
 
-
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseval&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseval&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
@@ -127,8 +130,8 @@ Le puedes preguntar tanto en español como en ingles!
 
 ## Connect with me:
 
-<!-- <p>
-  <a href="https://www.linkedin.com/in/sebastian-valencia-osorio-6a7132221" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="lemorles" height="15%" width="15%" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/sebastian-valencia-osorio-6a7132221/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="lemorles" height="15%" width="15%" /></a>
   <a href="mailto:sebasvalencia1710@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="lemorles" height="5%" width="5%" /></a>
   <a href="https://api.whatsapp.com/send?phone=573206623191" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/whatsapp.svg" alt="lemorles" height="5%" width="5%" /></a>
-</p> -->
+</p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Sebastian Valencia!</h1>
 <h3 align="center">I am a Full Stack Javascript Developer from Colombia</h3>
 
-## ⚙️ Lenguajes y herramientas:
+## ⚙️ Languages and Tools:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -15,6 +15,8 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -40,9 +42,11 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
 </p>
 
 
@@ -120,6 +124,7 @@ Le puedes preguntar tanto en español como en ingles!
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseval&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
 
+
 <br/>
 <br/>
 <br/>
@@ -127,6 +132,7 @@ Le puedes preguntar tanto en español como en ingles!
 <br/>
 <br/>
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eseval&label=Profile%20views&color=0e75b6&style=flat" alt="eseval" /> </p>
 
 ## Connect with me:
 

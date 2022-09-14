@@ -52,35 +52,38 @@
 
 <br/>
 
-## 🚀 Proyectos Principales:
+## 🚀 Main Projects:
 
-<!-- ### MENU'S
-<a href="https://menus-food.vercel.app" target="_blank" rel="noreferrer">
-  MENU'S
+### PLAY CENTER
+
+<a href="http://gamer-network-pf.vercel.app/" target="_blank" rel="noreferrer">
+  PLAY CENTER
 </a>
-es una app en la cual podes ver diferentes variedades de comidas, con sus respectiva información (nivel salubre, dieta, tipo de plato, resúmen) y pasos para la preparación.
-<!-- Countries App is a SPA (Single Page Application) in which all the countries of the world and their respective tourist activities can be viewed. -->
-<!-- <br/>
-<br/> -->
-<!--
-- Frontend: JS, React JS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
-- Backend: Node JS, Express JS, Sequelize, Postgres, Axios.
+is a web app where people can join and share common interest, the main subject of the app are video-games. There is a live chat, a service bot, a forum and the most recent news related to video-games.
+<br/>
+<br/>
+
+- Frontend: Javascript, ReactJS, Redux, HTML, CSS.
+- Backend: NodeJS, ExpressJS, Sequelize, Postgres, Axios.
 - DataBase: SQL.
-- Deploy: Vercel, Heroku. -->
+- Deploy: Vercel, Heroku.
 
-<!-- <br/>
+<br/>
 <p align='center'>
-  <img width=96% src='./img/menuLanding.png'  alt="MENU'S LANDING" />
-  <img width=48% src='./img/menuHome.png'  alt="MENU'S HOME" />
-  <img width=48% src='./img/menuDetail.png'  alt="MENU'S DETAIL" /> -->
-<!-- </p>  -->
-<!-- <p align='center'>
-  <img width=22% src='./img/menuLandingResponsive.png'  alt="MENU'S HOME" />
-  <img width=22% src='./img/menuHomeResponsive.png'  alt="MENU'S HOME" />
-  <img width=22% src='./img/menuHomeResNav.png'  alt="MENU'S HOME" />
-</p> -->
+  <img width=96% src='./img/landing.jpg'  alt="landing" />
+  <img width=48% src='./img/home.jpg'  alt="home" />
+  <img width=48% src='./img/forum.jpg'  alt="forum" />
+  <img width=48% src='./img/chat.jpg'  alt="chat" />
+  <img width=48% src='./img/community.jpg'  alt="community" />
+</p>
+<p align='center'>
+  <img width=22% src='./img/gameDetail.jpg'  alt="game detail" />
+  <img width=22% src='./img/forumDetail.jpg'  alt="forum detail" />
+  <img width=22% src='./img/quests.jpg'  alt="quests" />
+  <img width=22% src='./img/newsDetail.jpg'  alt="news detail" />
+</p>
 
-<!-- <br/> -->
+<br/>
 
 <!-- ### Weather App City
 <!-- Weather App is a SPA (Single Page Application) that consumes information from an API (OpenWeatherApp) and displays the weather of the places chosen by the user. -->

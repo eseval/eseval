@@ -97,7 +97,7 @@ is a web app where people can join and share common interest, the main subject o
 <!-- <br/> -->
 <!-- <img src='./img/weatherappHome.png'  alt="weather app" /> -->
 
-<!-- <br/> --> -->
+<!-- <br/> -->
 
 <!-- ### Magic 8Ball
 Magic 8Ball Es una App donde le puede hacer cualquier tipo de pregunta y él tendrá la respuesta...
